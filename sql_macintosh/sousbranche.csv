@@ -1,0 +1,242 @@
+id_sousbranche,sousbranche,sousbranche_trad,id_branche
+1,The Nuclear Family ,La famille nucléaire ,1
+2,The Extended Family ,La famille étendue ,1
+3,Board Games ,Les jeux de société ,7
+4,Artistic and Plastic Activities ,Activités artistiques et plastiques,7
+5,Imagination and Fantasy ,Imagination et fantaisie ,7
+6,Authority ,L'autorité ,19
+7,Lack of Discipline ,L'indiscipline ,19
+8,Knowledge ,"Le savoir, les connaissances ",20
+9,Abilities ,Les capacités ,20
+10,Electoral Systems ,Les systèmes électoraux ,32
+11,The Election Campaign ,La campagne électorale ,32
+12,Balloting ,Le scrutin ,32
+13,Parliamentary Practices ,Les pratiques parlementaires,33
+14,The British Parliament ,Le parlement britannique ,33
+15,The American Parliament ,Le parlement américain ,33
+16,The French Parliament ,Le parlement français ,33
+17,General Structures ,Les structures générales ,35
+18,The Budget ,Le budget ,35
+19,The British Government ,Le gouvernement britannique,35
+20,The American Government ,Le gouvernement américain,35
+21,The French Government ,Le gouvernement français ,35
+22,The Verdict ,Le verdict ,38
+23,Imprisonment ,L'incarcération ,38
+24,Death Penalty ,La peine de mort ,38
+25,Duration ,La durée ,43
+26,Frequency ,La fréquence ,43
+27,Past Times ,Le passé ,44
+28,The Expression of the Past ,L'expression du passé ,44
+29,The Present ,Le présent ,44
+30,The Future ,"Le futur, l''avenir",44
+31,The Universe ,L'univers ,68
+32,The Solar System ,Le système solaire,68
+33,Astronomy ,L'astronomie ,68
+34,The Blue Planet ,La planète bleue ,69
+35,The Mainland ,La terre ferme ,69
+36,Water ,L'eau ,69
+37,Climate ,Les climats ,70
+38,Water ,L'eau ,70
+39,Air ,L'air ,70
+40,The Land Forces ,L'armée de terre ,78
+41,The Navy ,La marine de guerre ,78
+42,The Air Force ,L'armée de l'air ,78
+43,Armaments ,L'armement ,81
+44,Conventional Weapons ,Les armes conventionnelles ,81
+45,Non-conventional Weapons ,Les armes non-conventionnelles,81
+46,The Casualties ,Les victimes ,85
+47,War crimes ,Les crimes de guerre ,85
+48,Endangered Animal Species ,Les espèces animales menacées,100
+49,Threats ,Les menaces ,100
+50,Global Damage ,Les dégâts à l'échelle mondiale ,102
+51,Air Pollution ,La pollution atmosphérique ,102
+52,Climate Changes ,Les modifications du climat ,102
+53,Scarcity and Surplus ,Pénurie et excédent ,102
+54,Water Pollution ,La pollution des eaux ,102
+55,Waste ,Les déchets ,102
+56,A Language ,Une langue ,107
+57,The Register ,Le registre ,107
+58,Conversation ,La conversation ,112
+59,Disagreement ,Le désaccord ,112
+60,Presentation ,La présentation ,114
+61,Persuasion ,La persuasion ,114
+62,Congratulations ,Les félicitations ,114
+63,Humour ,L'humour ,114
+64,Forms of Love ,Les formes d'amour ,122
+65,Love Rituals ,Les rituels amoureux ,122
+66,Marriage and Union ,Le mariage et l'union ,122
+67,Physical Love ,L'amour physique ,123
+68,Sexual Freedom ,La liberté sexuelle ,123
+69,Discrimination against Individuals ,La discrimination envers les individus,134
+70,Racism ,Le racisme ,134
+71,Sexual discrimination ,La discrimination sexuelle ,134
+72,Crime and Delinquency ,Le crime et la délinquance ,135
+73,Domestic Violence ,La violence domestique ,135
+74,Computer Engineers ,Les informaticiens ,152
+75,Hardware and Software ,L'équipement informatique en entreprise,152
+76,Office Work ,Le travail de bureau ,153
+77,Household Applications ,Les applications domestiques,153
+78,Computer Crime ,Les délits informatiques ,153
+79,Road Facilites ,Les infrastructures routières ,159
+80,Vehicles ,Les véhicules ,159
+81,Driving ,La conduite ,159
+82,Mechanics ,La mécanique ,159
+83,Rail Facilities ,Les infrastructures ferroviaires ,160
+84,Rail Transport ,Le transport ferroviaire ,160
+85,Air Traffic ,Le trafic aérien ,162
+86,Flying ,Les voyages aériens ,162
+87,Accidents ,Les accidents ,162
+88,Accomodation ,L'hébergement ,166
+89,The Seaside ,Le bord de mer ,166
+90,Touring ,Les circuits touristiques ,166
+91,Camping and Caravaning ,Sous la tente et en caravane,166
+92,Advertising and Promotion ,La publicité et la promotion,167
+93,Hard-Sell Advertising ,La publicité agressive ,167
+94,Advertising in Print ,La publicité écrite ,168
+95,Outdoors Advertising ,La publicité de la rue ,168
+96,Advertising on Air ,La publicité sur les ondes ,168
+97,Point of Sale Advertising ,La publicité sur le lieu de vente (PLV),168
+98,Small Businesses ,Les petits commerces ,169
+99,Big Stores ,La grande distribution ,169
+100,Inside the Shop ,A l'intérieur du magasin ,169
+101,Service Providers ,Les prestataires de services ,169
+102,The Consumer ,Le consommateur ,170
+103,Transactions ,Les transactions ,170
+104,Trends ,Les tendances ,174
+105,Currencies ,"Les monnaies, les devises ",174
+106,The Stock Exchange ,La Bourse ,174
+107,Banks ,Les banques ,174
+108,Trade ,Le commerce ,177
+109,The Position on the Market ,La position sur le marché,177
+110,Foreign Trade ,Le commerce extérieur ,177
+111,Trade Barriers ,Les barrières commerciales ,177
+112,The Product ,Le produit ,179
+113,The Price ,Le prix ,179
+114,Promotion ,La promotion ,179
+115,Production ,La production ,183
+116,Cereal Growing ,La culture céréalière ,183
+117,Market Gardening ,La culture maraîchère ,183
+118,Wine-growing ,La viticulture ,183
+119,Cattle Breeding ,L'élevage de bétail ,186
+120,The Poultry Yard ,La basse-cour ,186
+121,Beekeeping ,L'apiculture ,186
+122,Fish Farming ,La pisciculture ,186
+123,Dairy ,La laiterie ,186
+124,Energy ,L'énergie ,199
+125,The Mining Industry ,L'industrie minière ,199
+126,Oil and Gas ,Le pétrole et le gaz ,199
+127,Electricity and Nuclear Energy ,L'électricité et le nucléaire,199
+128,Job Creation ,La création d'emplois ,202
+129,Being in Work ,Avoir un emploi ,202
+130,Recruitment ,Le recrutement ,202
+131,Probation and Training ,Période d'essai et formation,202
+132,Promotion ,L'avancement ,202
+133,Losing One's Job ,La perte d'emploi ,203
+134,Being Out of Work ,Etre sans emploi ,203
+135,Dissatisfaction ,Le mécontentement ,210
+136,Going on Strike ,La grève ,210
+137,Negotiations ,Les négociations ,210
+138,Indoor sports ,Les sports en salle ,215
+139,Outdoor sports ,Les sports de plein air ,215
+140,A Training Session ,Une séance d'entraînement ,216
+141,Qualities ,Les qualités ,216
+142,Contests ,Les rencontres ,217
+143,Participants ,Les participants ,217
+144,Victory ,La victoire ,217
+145,Defeat ,La défaite ,217
+146,The Public ,Le public ,217
+147,Refereeing ,L'arbitrage ,220
+148,Sanctions ,Les sanctions ,220
+149,Heredity ,L'hérédité ,228
+150,Mental Illness ,Les maladies mentales ,228
+151,Conventional Treatments ,Les traitements somatiques,231
+152,Therapies for the Soul ,La médecine de l'âme ,231
+153,Alternative Techniques ,Les thérapies parallèles ,231
+154,A Turn for the Worse ,Une aggravation ,234
+155,A Change for the Better ,Une amélioration ,234
+156,Prevention ,La prévention ,234
+157,Euthanasia ,L'euthanasie ,240
+158,The Sorcerer's Apprentice ,L'apprenti sorcier ,240
+159,Mathematics ,Les mathématiques ,242
+160,Physics ,Les sciences physiques ,242
+161,Chemistry ,La chimie ,242
+162,Natural Sciences ,Les sciences naturelles ,242
+163,Archaeology and Anthropology ,L'archéologie et l'anthropologie,243
+164,Sociology and Economics ,La sociologie et l'économie,243
+165,Sciences of the Psyche ,Les sciences de la psyché ,243
+166,Linguistics ,La linguistique ,243
+167,The Crew and the Staff ,L'équipage et le personnel,247
+168,The Equipment ,L'équipement ,247
+169,The Space Race ,La course vers les étoiles ,248
+170,Purposes of Space Exploration ,Les fins de l'exploration spatiales,248
+171,In Search of New Forms of Life ,A la recherche de nouvelles formes de vie,248
+172,Soft Drinks ,Les boissons non alcoolisées ,250
+173,Alcoholic Beverages ,Les boissons alcoolisées ,250
+174,Everyday Eating ,L'alimentation au quotidien ,252
+175,Breakfast ,Le petit déjeuner ,252
+176,Lunch and Dinner ,Le déjeuner et le dîner ,252
+177,Special Occasions ,Les grandes occasions ,252
+178,International Food ,La cuisine internationale ,255
+179,Fast Food ,La restauration rapide ,255
+180,The Quest for Quality ,A la recherche de la qualité,255
+181,Overeating ,L'excès de nourriture ,256
+182,Eating Deficiencies ,Les carences alimentaires ,256
+183,Diets ,Les régimes ,256
+184,Addiction ,La dépendance ,257
+185,Abstinence ,L'abstinence ,257
+186,Built-up Areas ,Les agglomérations ,263
+187,Urban Organization ,L'organisation urbaine ,263
+188,A House ,Une maison ,264
+189,Communal Housing ,L'habitat collectif ,264
+190,Town Life ,La vie urbaine ,267
+191,Urban Exodus ,L'exode urbain ,267
+192,Composition ,La composition ,268
+193,Patterns and Appearances ,Motifs et apparences ,268
+194,Textile Production ,La production textile ,269
+195,Sewing and Clothes-Making ,La couture et la confection,269
+196,Types of Paintings ,Genres de peintures ,306
+197,Artistic Trends ,Les tendances artistiques ,306
+198,Equipment ,Le matériel ,307
+199,The Drawer's Work ,L'oeuvre du dessinateur ,307
+200,The Main Parts ,Les parties principales ,315
+201,Words and Syntax ,Les mots et la syntaxe ,315
+202,Ponctuation ,La ponctuation ,315
+203,Prose ,La prose ,316
+204,Poetry ,La poésie ,316
+205,Order Ideas,Ordonner ses idées ,327
+206,Make a Transition,Faire une transition ,327
+207,Explain,Expliquer ,327
+208,Add New Ideas,Ajouter de nouvelles idées ,327
+209,Introduce Examples,Introduire des exemples ,327
+210,Summarize a Development,Résumer un développement ,327
+211,Conclude,Conclure ,327
+212,Reformulate Ideas,Reformuler ses idées ,328
+213,Perspective Restriction,Restreindre son point de vue ,328
+214,Lodge an Opposition,Introduire une opposition ,328
+215,Bring Back an Opinion,Rapporter une opinion ,329
+216,Report a Statement,Rapporter une prise de position ,329
+217,To Obtain an Opinion,Pour obtenir une opinion ,330
+218,To Obtain an Appreciation,Pour obtenir une appréciation ,330
+219,Introduce his Point of View,Introduire son point de vue ,331
+220,Give an Assessment,Donner une appréciation ,331
+221,Develop a Point of View,Valoriser son point de vue ,331
+222,Take Position,Prendre position ,331
+223,State Categorically,Affirmer catégoriquement ,331
+224,"Avoid Clear-Cut Answers, Express Reserve...","Eviter les réponses tranchées, émettre des réserve... ",331
+225,Don't Express Opinion,Ne pas exprimer d'opinion ,331
+226,Express an Agreement in Principle,Exprimer un accord de principe ,332
+227,Approve Ideas,Approuver des idées ,332
+228,Accept a Proposal,Accepter une proposition ,332
+229,Express a Full Approval,Exprimer une pleine approbation ,332
+230,Take Precautions to Arrange the Other Point...,Prendre des précautions pour ménager l'autre point... ,333
+231,Assert a Difference of Point of View,Affirmer une divergence de point de vue ,333
+232,Express a Direct Disapproval,Exprimer une désapprobation directe ,333
+233,Express a Downright Refusal,Exprimer un refus catégorique ,333
+234,Express of the Indifference,Exprimer de l'indifférence ,334
+235,Express the Lack of Interest,Exprimer le manque d'intérêt ,334
+236,Express of the Aversion,Exprimer de l'aversion ,334
+237,Express a Mark of Interest,Exprimer une marque d'intérêt ,335
+238,Express a Long-Lasting Taste,Exprimer un goût durable ,335
+239,Express a Pronounced Taste,Exprimer un goût prononcé ,335
+240,Express some Enthusiasm,Exprimer de l'enthousiasme ,335
+241,Express Preferences,Exprimer des préférences ,335

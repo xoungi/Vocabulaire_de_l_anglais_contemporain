@@ -1,0 +1,341 @@
+id_branche,branche,branche_trad,id_souscategorie
+1,Parents and Relatives ,Parents et famille,1
+2,Children ,Les enfants,1
+3,Bonds ,Les liens,2
+4,Upbringing ,L'éducation,2
+5,Obedience and disobedience ,L'obéissance et la désobéissance,2
+6,Toys ,Les jouets,3
+7,Indoor Activities ,Les activités à la maison,3
+8,Outdoor Activities ,Les activités de plein air,3
+9,School Life ,La vie scolaire,4
+10,Preschool Education ,L'éducation pré-scolaire,4
+11,Primary and Secondary Schools ,Les écoles primaires et secondaires,4
+12,Higher Education ,L'enseignement supérieur,4
+13,Training ,La formation,4
+14,The School Staff ,Le personnel éducatif,5
+15,The students ,"Les élèves, les étudiants",5
+16,The curriculum ,Le programme scolaire,6
+17,Educational Methods ,Pratiques pédagogiques,6
+18,Schoolwork ,Le travail scolaire,6
+19,Discipline ,La discipline,6
+20,Abilities and Knowledge ,Les aptitudes et les acquis,7
+21,Assessment ,L'évaluation,7
+22,Achievement ,La réussite,7
+23,Academic Failure ,L'échec scolaire,8
+24,Learning Disabilities ,Les handicaps scolaires,8
+25,The State ,L'Etat,9
+26,Democracy and Republic ,La démocratie et la république,9
+27,Monarchy ,La monarchie,9
+28,Other Types of Absolute Power ,Autres types de pouvoir absolu,9
+29,Political Doctrines and Trends ,Doctrines et tendances politiques,9
+30,Party structures ,Les structures du parti,10
+31,Political Opinion ,L'opinion politique,10
+32,Elections ,Les élections,10
+33,Parliament ,Le Parlement,11
+34,Law in the Making ,L'élaboration des lois,11
+35,Governments ,Les gouvernements,12
+36,The Police ,La police,12
+37,The Trial ,Le procès,13
+38,Condemnation or Acquittal ,La condamnation ou l'acquittement,13
+39,Instruments ,Les instruments,14
+40,Basic Units of Time ,Les unités de temps élémentaires,14
+41,Organizing Time ,La gestion du temps,14
+42,The Rhythm of Days and Nights ,Le rythme des jours et des nuits,14
+43,Duration and Frequency ,Durée et fréquence,15
+44,"Past, Present and Future ","Le passé, le présent, l'avenir",15
+45,Birth and Infancy ,La naissance et la petite enfance,16
+46,Growing Up ,La croissance,16
+47,Adulthood ,"L'âge adulte, la maturité",16
+48,Ageing and Old Age ,Le vieillissement et la vieillesse,16
+49,Death ,La mort,16
+50,The Dream of Eternal Life ,Le rêve de vie éternelle,17
+51,The Refusal of Death ,Le refus de la mort,17
+52,Faith and Belief ,La foi et la croyance,18
+53,Unbelief and Secularity ,L'incroyance et la laïcité,18
+54,Religion ,La religion,19
+55,Christianity ,Le christianisme,19
+56,Judaism ,Le Judaïsme,19
+57,Islam ,l'Islam,19
+58,Other Religions ,D'autres religions,19
+59,Places and Objects of Worship ,Les lieux et les objets du culte,20
+60,The Ministers of Religion ,Les ministres du culte,20
+61,Practices and Ritual ,Pratiques et rituels,20
+62,Celebrations ,Les fêtes,20
+63,Greek and Latin Mythology ,La mythologie grecque et latine,21
+64,Folklore ,Les croyances populaires,21
+65,Cults ,Les sectes,21
+66,Supersitions and the Supernatural ,Les superstitions et le surnaturel,21
+67,Astrology ,L'astrologie,21
+68,The Skies ,Les cieux,22
+69,Mother Earth ,Notre Mère la Terre,22
+70,Climate and the Weather ,Les climats et le temps,22
+71,Meteorology ,La météorologie,22
+72,Natural Disasters ,Les catastrophes naturelles,22
+73,The World ,Le monde,23
+74,Countries and Nations ,Les pays et les nations,23
+75,Main Countries ,Les principaux pays,23
+76,Population and Demography ,La population et la démocratie,23
+77,The Military ,Les militaires,24
+78,Army Corps ,Les corps d'armée,24
+79,A Soldier's Life ,La vie de soldat,24
+80,Military Discipline ,La discipline militaire,24
+81,Weaponry ,Les armes,24
+82,The Road to War ,L'entrée en guerre,25
+83,Military Tactics ,La tactique militaire,25
+84,Warfare ,Les hostilités,25
+85,Victims and Tormentors ,Victime et bourreaux,25
+86,The Outcome of the Conflict ,L'issue du conflit,25
+87,Resistance ,La résistance,25
+88,Appeasement ,Le retour à la paix,26
+89,Reconstruction ,La reconstruction,26
+90,Commemoration ,Les commémorations,26
+91,Reasons to Escape ,Des raisons de fuir,27
+92,Expectations and Dreams ,Les attentes et les rêves,27
+93,Settling In ,L'installation,27
+94,Work ,Le travail,28
+95,Status ,Le statut,28
+96,Barriers ,Les obstacles,28
+97,Discrimination ,La discrimination,28
+98,Integration ,L'intégration,29
+99,Ethnic Wealth ,La richesse ethnique,29
+100,Endangered Fauna ,La faune en danger,30
+101,Endangered Flora ,La flore en danger,30
+102,Endangered Earth ,La planète en danger,30
+103,Day-to-Day Environmentalism ,L'écologie au quotidien,31
+104,Activism ,Le militantisme,31
+105,Government Action ,L'action gouvernementale,31
+106,Technical Innovations ,Les innovations techniques,31
+107,The Spoken Language ,La langue orale,32
+108,Soft Voices ,Des voix douces,32
+109,Loud Voices ,Des voix fortes,32
+110,Basic Operations ,Les opérations de base,33
+111,Eloquence ,L'éloquence,33
+112,Dialogue ,Le dialogue,33
+113,Interruption ,Les ruptures du discours,33
+114,The purposes of Speech ,Les buts du discours,33
+115,Talkativeness ,La loquacité,34
+116,Outspokenness ,Le franc-parler,34
+117,Caution ,La modération,34
+118,Joy ,La bonne humeur,35
+119,Grief ,La peine,35
+120,Discontent and Anger ,Le mécontentement et la colère,35
+121,Friendship ,L'amitié,37
+122,Love ,L'amour,37
+123,Love and Sex ,L'amour et la sexualité,37
+124,Happiness and Harmony ,Bonheur et harmonie,37
+125,Consideration for Others ,Les égards pour les autres,38
+126,The Respect of Human Rights ,Le respect des droits de l'homme,38
+127,International Relations ,Les relations internationales,38
+128,Misunderstanding an Disagreement ,L'incompréhension et le désaccord,39
+129,Nastiness and Aggressiveness ,La méchanceté et l'agressivité,39
+130,Hypocrisy and Dishonesty ,L'hypocrisie et la malhonnêteté,39
+131,Pride and Contempt ,L'orgueil et le mépris,39
+132,Jealousy and Resentment ,La jalousie et la rancune,39
+133,Anger and Hatred ,La colère et la haine,39
+134,Discrimination ,La discrimination,40
+135,Violence and Crime ,La violence et la criminalité,40
+136,Social Unrest ,L'agitation sociale,41
+137,Outbursts of Violence ,Explosions de violence,41
+138,The State versus the Individual ,L'Etat contre l'individu,42
+139,Crimes against Humanity ,Les crimes contre l'humanité,42
+140,Slavery ,L'esclavage,42
+141,Newspapers and Magazines ,Journaux et magazines,43
+142,Journalism ,Le journalisme,43
+143,The Radio ,La radio,43
+144,TV ,La télévision,44
+145,Programming ,La programmation,44
+146,TV people ,Les gens de la télévision,44
+147,Information or Muckraking ,Information ou chasse au scandale ?,45
+148,Surveillance ,La surveillance,45
+149,Censorship ,La censure,45
+150,The Post ,Le courrier,46
+151,The Telephone ,La téléphone,46
+152,Computer Technology ,La technologie informatique,47
+153,The Applications of Computers ,Les applications de l'ordinateur,47
+154,Off-line ,Le off-line,48
+155,Logging onto the Internet ,L'accès à l'Internet,48
+156,The Global Village ,Le village planétaire,48
+157,Travelling ,Les voyages,49
+158,Transporting People and Goods ,Le transport des personnes et des biens,49
+159,Road Transport ,Le transport par route,49
+160,Rail ,Le rail,49
+161,Sea Transport ,Le transport maritime,49
+162,Air Transport ,Le transport aérien,49
+163,Leisure ,Les loisirs,50
+164,The Tourist Industry ,L'industrie du tourisme,50
+165,Getting Ready ,Les préparatifs,50
+166,Holidays ,Les vacances,50
+167,Advertising and its Techniques ,La publicité et ses techniques,51
+168,The Advertising Media ,Les vecteurs de la publicité,51
+169,The Distribution Network ,Le réseau de distribution,52
+170,The Consumer Society ,La société de consommation,52
+171,Consumer and Dissatisfaction ,Le mécontentement des consommateurs,53
+172,The Power of Consumers ,Le pouvoir des consommateurs,53
+173,Economic Systems ,Les systèmes économiques,54
+174,Notions of Economics ,Notions d'économie,54
+175,Business ,Les affaires,55
+176,Companies ,Les entreprises,55
+177,National and International Trade ,Le commerce à l'échelle nationale et internationale,55
+178,Market Research ,L'étude de marché,56
+179,The Principles of Marketing ,Les principes de la mercatique,56
+180,The Farm ,La ferme,58
+181,Agricultural Workers and Producers ,Les travailleurs et producteurs agricoles,58
+182,Farm-work ,Les travaux agricoles,58
+183,Agricultural Production ,La production agricole,58
+184,The IIIs of Agriculture ,Les plaies de l'agriculture,58
+185,A Breeding Farm ,Un élevage,59
+186,Animal Production ,La production animale,59
+187,Improving Production ,L'amélioration de la production,60
+188,Agricultural Policy ,La politique agricole,60
+189,Craft and Craftpeople ,L'artisanat et les artisans,61
+190,Working with Wood ,Le travail du bois,61
+191,Working with Stones ,Le travail des pierres,61
+192,Working with Metal ,Le travail du métal,61
+193,Working with Glass ,Le travail du verre,61
+194,Working with Fabric ,Le travail du tissu,61
+195,The Building Industry ,Le bâtiment et les travaux publics,62
+196,The Manufacturing Industry ,L'industrie manufacturière,62
+197,Heavy Industry – The Iron And Steel Industry,L'industrie lourde – La sidérurgie,62
+198,Metallurgy ,La métallurgie,62
+199,Producing Energy ,La production d'énergie,62
+200,Production ,La production,63
+201,Productivity ,La productivité,63
+202,Employment ,L'emploi,64
+203,Unemployment ,Le chômage,64
+204,Work Places ,Les lieux de travail,65
+205,Working Hours ,Le temps de travail,65
+206,Pay ,La rémunération,65
+207,Occupational Hazards ,Les risques du métier,65
+208,Work Regulations ,La législation du travail,65
+209,Unionism ,Le syndicalisme,66
+210,Social Tensions ,Les tensions sociales,66
+211,Work Migrations ,Les migrations du travail,67
+212,The Abolition of Distances ,L'abolition des distances,67
+213,The End of Work? ,La fin du travail ?,67
+214,Sport ,Le sport,68
+215,Sports ,Les sports,68
+216,Training ,L'entraînement,69
+217,Competition ,La compétition,69
+218,The Stakes ,Les enjeux,70
+219,Foul Play ,Le jeu déloyal,70
+220,Controls and Sanctions ,Les contrôles et les sanctions,70
+221,Good Health and Physical Condition ,Bonne santé et bonne condition physique,72
+222,Bad Health and Poor Physical Condition ,Mauvaise santé et mauvaise condition physique,72
+223,Accidents ,Les accidents,73
+224,The Beginning of the Disease ,Le début de la maladie,73
+225,Benign Diseases ,Les maladies bénignes,73
+226,Major Diseases and Main Body Malfunctions ,Les maladies graves et les troubles organiques principaux,73
+227,Infectious Diseases ,Les maladies infectieuses,73
+228,Mental Handicaps ,Les handicaps mentaux,73
+229,Physical Disabilities ,Les handicaps physiques,73
+230,The Body in Pain ,Le corps souffrant,73
+231,Treatments and Therapies ,Les traitements et les thérapies,74
+232,Pain Relief ,Le soulagement,74
+233,Types of Operations ,Les types d'opérations,74
+234,Relapse or Recovery ,La rechute ou la guérison,74
+235,Medical Staff ,Le personnel médical,75
+236,Medical Staff at Work ,Le personnel médical au travail,75
+237,Places ,Les lieux,75
+238,Health Systems ,Les systèmes de santé,75
+239,The Achievements of Medical Research ,Les victoires de la recherche médicale,76
+240,The Power of Scientists ,Le pouvoir des savants,76
+241,The Ethical Debate ,La controverse éthique,76
+242,Exact Sciences ,Les sciences exactes,77
+243,Social Sciences ,Les sciences humaines,77
+244,Basic Research ,La recherche fondamentale,78
+245,The Way to Discoveries ,La voie des découvertes,78
+246,Funds for Research ,Le financement de la recherche,78
+247,The Space Age ,L'ère spatiale,79
+248,Space Conquest ,La conquête de l'espace,79
+249,Basic Food ,Les aliments de base,80
+250,Drinks ,Les boissons,80
+251,Cooking Food ,Faire la cuisine,80
+252,The Meals of the Day ,Les repas de la journée,80
+253,Places to Eat and Drink ,Les lieux où boire et manger,80
+254,Taste ,Le goût,81
+255,Trends ,Les tendances,81
+256,Eating Disorders ,Les troubles de l'alimentation,82
+257,Alcoholic Abuse ,L'excès d'alcool,82
+258,Shapes ,Les formes,83
+259,Volumes ,Les volumes,83
+260,Materials ,Les matériaux,83
+261,Styles ,Styles,83
+262,Town Planning ,L'urbanisme,84
+263,Space Organisation ,L'organisation de l'espace,84
+264,City Habitat ,L'habitat urbain,85
+265,In the Country ,A la campagne,85
+266,Facilities ,Les équipements,85
+267,Trends ,Les tendances,85
+268,Fabrics ,Les tissus,86
+269,The Textile Industry ,L'industrie textile,86
+270,Getting Dressed or Undressed ,S'habiller ou se déshabiller,87
+271,Tops ,Les hauts,87
+272,Bottoms ,Les bas,87
+273,Outfits ,Les ensembles,87
+274,Underwear and Nightwear ,Le linge de corps et les vêtements de nuit,87
+275,Outdoors Clothes ,Les vêtements d'extérieur,87
+276,Sportswear ,Les vêtements de sport,87
+277,Shoes ,Les chaussures,87
+278,Accessories ,Les accessoires,87
+279,Fashion and Styles ,La mode et les styles,88
+280,High Fashion ,Le grand style,88
+281,Creation ,La création,89
+282,Retailing ,La distribution,89
+283,Dramatic Art ,La dramaturgie,90
+284,Acting ,Le jeu de l'acteur,90
+285,The Theatre House ,La salle de théâtre,90
+286,The Audience ,Le public,90
+287,Making a Film ,La réalisation d'un film,91
+288,Filming Techniques ,Les technologies cinématographiques,91
+289,Editing ,Le montage,91
+290,Movie-Going ,La fréquentation des salles de cinéma,91
+291,The Film Industry ,L'industrie cinématographique,91
+292,Styles ,Les styles,92
+293,Singing ,Le chant,92
+294,Instruments and Players ,Les instruments et les musiciens,92
+295,Musical Performance ,L'exécution musicale,92
+296,The Music Industry ,L'industrie musicale,92
+297,Ballet ,La danse classique,93
+298,Other Forms of Dancing ,Autres formes de danse,93
+299,The Artist and his Work ,L'artiste et son travail,95
+300,Artistic Creation ,La création artistique,95
+301,Places ,Les lieux,96
+302,The Appreciation of Art ,L'accueil du public,96
+303,The Art Market ,Le marché de l'art,96
+304,Paint and Painting ,La peinture : matière et activité,97
+305,Colours ,Les couleurs,97
+306,A Painting ,Une peinture,97
+307,Drawing ,Le dessin,98
+308,Engraving ,La gravure,98
+309,Materials ,Les matériaux,99
+310,The Activity ,L'activité,99
+311,The Work ,L'œuvre,99
+312,The Equipment ,L'équipement,100
+313,Technique ,La technique,100
+314,The Writer ,L'écrivain,101
+315,Writing a Text ,L'écriture d'un texte,101
+316,Literary Genres ,Les genres littéraires,101
+317,Conventions and Traditions ,Les conventions et les traditions,102
+318,Characters ,Les personnages,102
+319,The Structure ,La structure,102
+320,Writing Techniques ,Les techniques d'écriture,102
+321,Positive Reading Experiences ,Les expériences positives du lecteur,103
+322,Negative Reading Experiences ,Les expériences négatives du lecteur,103
+323,Literary Criticism ,La critique littéraire,103
+324,Anatomy of a Book ,La composition d'un livre,104
+325,Editing and Publishing ,L'édition et la publication,104
+326,Distribution ,La diffusion,104
+327,Thought and Ideas Structure,Structurer sa pensée et ses idées,105
+328,Thought Nuance,Nuancer sa pensée,105
+329,Report others Opinion,Rapporter l'opinion des autres,106
+330,Ask for an Opinion,"Demander un avis, une opinion",106
+331,Express an Opinion,Exprimer son opinion,106
+332,Agreement and Approval,Accord et approbation,107
+333,Disagreement and Disapproval,Désaccord et désapprobation,107
+334,Express the Indifference,Exprimer le désintérêt,108
+335,Express Tastes,Exprimer des goûts,108
+336,Express Wishes,Exprimer des souhaits,109
+337,Express Regret,Exprimer des regrets,109
+338,Express the Doubt or the Uncertainty,Exprimer le doute ou l'incertitude,110
+339,Express the Probability,Exprimer la probabilité,110
+340,Express a Certainty,Exprimer une certitude,110

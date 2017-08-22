@@ -1,0 +1,111 @@
+id_souscategorie,souscategorie,souscategorie_trad,id_categorie
+1,The Family,La famille,1
+2,Family Relationships,Les relations familiales,1
+3,Children's Games,Les jeux d'enfants,1
+4,The Educational System,Le système scolaire,2
+5,The School Community,La communauté scolaire,2
+6,Topics and Methods,Matières et Méthodes,2
+7,Assesment and Achievement,Evaluation et performance,2
+8,Learning Difficulties,Difficultés d'apprentissage,2
+9,Political Regimes,Les régimes politiques,3
+10,Political Life and Elections,La vie politique et les élections,3
+11,Legislative Power,Le pouvoir législatif,3
+12,Executive Power,Le pouvoir exécutif,3
+13,Judiciary Power,Le pouvoir judiciaire,3
+14,Measuring Time,La mesure du temps,4
+15,The Passing of Time,L'écoulement du temps,4
+16,Human Lifetimes,La vie humaine et le temps,4
+17,The Fight Against Time,La lutte contre le temps,4
+18,Faith,La foi,5
+19,Religions,Les religions,5
+20,Workship and Rituals,Cultes et rituels,5
+21,Myths and Other Beliefs,Mythes et autres croyances,5
+22,Geography,La géographie,6
+23,Geopolitics,La géopolitique,6
+24,The Army,L'armée,7
+25,War,La guerre,7
+26,After the War,L'après-guerre,7
+27,Dreams of a Better Life,Rêves d'une vie meilleure,8
+28,Reality,La réalité,8
+29,The Ethnic Mix,La diversité ethnique,8
+30,Endangered Nature,La nature en danger,9
+31,Environmental Progress,Les progrès de l'écologie,9
+32,Voice and Voices,La voix et les voix,10
+33,Speech,Le discours,10
+34,Too Many or Too Few Words,Trop ou pas assez de mots,10
+35,Expressing Feelings,L'expression des sentiments,10
+36,Speech Impediments,Les défauts d'élocution,10
+37,Human Relationships,Les relations entre individus,11
+38,The Individual in Society,L'individu en société,11
+39,Relationships Between Individuals,Les relations entre les individus,12
+40,Violence and Discrimination,La violence et la discrimination,12
+41,Social Dissatisfaction,Le mécontentement social,12
+42,Human Rights Abuses,Les violations des droits de l'homme,12
+43,The Press,La presse écrite,13
+44,Television,La télévision,13
+45,The Freedom of the Media,La liberté des médias,13
+46,Postal Services and Telecommunications,La poste et les télécommunications,14
+47,The Computer,L'ordinateur,14
+48,Multimedia,Le multimédia,14
+49,Transport,Transport,15
+50,Tourism,Le tourisme,15
+51,Advertising,La publicité,16
+52,Consumption,La consommation,16
+53,Consumerism,Le consumérisme,16
+54,Economics,L'économie,17
+55,Trade and Exchange,Le commerce et les échanges,17
+56,Marketing,La mercatique,17
+57,The Countryside,La campagne,18
+58,Farming,L'agriculture,18
+59,Animal Farming,L'élevage,18
+60,New Trends,Les nouvelles orientations,18
+61,Craft Industry,L'artisanat,19
+62,Industry,L'industrie,19
+63,Production and Productivity,La production et la productivité,19
+64,The Job Market,Le marché du travail,20
+65,Working Conditions,Les conditions de travail,20
+66,Industrial Relations,Les relations sociales,20
+67,Trends,Les tendances,20
+68,Sport and Sports,Le sport et les sports,21
+69,Training and Competition,L'entraînement et la compétition,21
+70,Performance at All Costs,La performance à tout prix,21
+71,The Human Body,Le corps humain,22
+72,Good or Bad Health,Bonne ou mauvaise santé,22
+73,Ailments and Diseases,Les maux et les maladies,22
+74,Remedies and Prevention,Les remèdes et la prévention,22
+75,The Medical World,Le monde médical,22
+76,Medical Research and Ethics,La recherche médicale et l'éthique,22
+77,Scientific Fields,Les sciences,23
+78,Scientific Research,La recherche scientifique,23
+79,Astronautics, L'astronautique,23
+80,Food,La nourriture,24
+81,Taste and Tastes,Le goût et les goûts,24
+82,Excesses and Deficiencies,Excès et carences,24
+83,"Shapes, Materials and Styles","Formes, matériaux et styles",25
+84,Town-and-Country Planning,L'aménagement du territoire,25
+85,Housing,Le logement,25
+86,Textiles,Le textile,26
+87,The Wardrobe,La garde-robe,26
+88,Style and Look,Le style et l'apparence,26
+89,The Fashion Industry,Le secteur de la mode,26
+90,The Theatre,Le théâtre,27
+91,The Cinema,Le cinéma,27
+92,Music,La musique,27
+93,Dancing,La danse,27
+94,Others Forms of Entertainment,Autres formes de spectacles,27
+95,The Artistic World,Le monde de l'art,28
+96,Art and its Public,L'art et son public,28
+97,Painting,La peinture,28
+98,Drawing and Engraving,Le dessin et la gravure,28
+99,Sculpture and Modelling,La sculpture et le modelage,28
+100,Photography,La photographie,28
+101,The Writer and his Writing,L'écrivain et ses écrits,29
+102,The Anatomy of Style,L'anatomie du style,29
+103,Reading and Literary Appreciation,La lecture et l'appréciation,29
+104,The Book Industry,L'industrie du livre,29
+105,Thought Organisation,Organiser sa pensée,30
+106,The Expression of Opinion,L'expression des opinions,30
+107,Agreement and Disagreement,Accord et désaccord,30
+108,Indifference and Preference,De l'indifférence à la préférence,30
+109,Wishes and Regrets,Souhaits et regrets,30
+110,The Doubt and the Certainty,Du doute à la certitude,30
